@@ -12,4 +12,4 @@
 * [Brainstorm & idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/blob/main/Project%20design%20phase/Ideation%20Phase/BrainStorm_News%20Tracker%20Application%20.pdf)
 * [Project Design & Planning](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/tree/main/Project%20design%20phase/Project%20design%20phase-1)
 * [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/tree/main/Project%20design%20phase/Ideation%20Phase)
-* [Project Development Phase].(https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/tree/main/Project%20Development%20Phase/Sprint-1)
+* [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/tree/main/Project%20Development%20Phase/Sprint-1)
