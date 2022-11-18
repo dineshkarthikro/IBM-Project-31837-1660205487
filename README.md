@@ -6,9 +6,9 @@
 ## Ideation Phase
 ## Project Phases
 
-*[Literature Survey](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/blob/main/Project%20design%20phase/Ideation%20Phase/Literature%20Survey.pdf)
+[Literature Survey](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/blob/main/Project%20design%20phase/Ideation%20Phase/Literature%20Survey.pdf)
 
-*[Empathy Map Canvas](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/blob/main/Project%20design%20phase/Ideation%20Phase/Empathy%20Map.pdf)
+[Empathy Map Canvas](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/blob/main/Project%20design%20phase/Ideation%20Phase/Empathy%20Map.pdf)
 * [Problem Statement](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/blob/main/Project%20design%20phase/Ideation%20Phase/Problem%20Statement.pdf)
 * [Brainstorm & idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/blob/main/Project%20design%20phase/Ideation%20Phase/BrainStorm_News%20Tracker%20Application%20.pdf)
 * [Project Design & Planning](https://github.com/IBM-EPBL/IBM-Project-31837-1660205487/tree/main/Project%20design%20phase/Project%20design%20phase-1)
